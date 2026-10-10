@@ -1,4 +1,4 @@
-## **Thales:** 
+## **Thales:**
 
 **First Greek Philosopher (\~624-546 BC)**
 
@@ -22,7 +22,7 @@ His main contribution to Philosophy was his search for the Arche that asked what
 
 The arche had to explain these things:
 
-* It had to explain existence, and the ground for existence itself. 
+* It had to explain existence, and the ground for existence itself.
 * It had to explain change, how things grow and shrink, and what is the cause of that.
 * It had to explain motion, how things change from one place to another
 * It had to explain life
@@ -119,7 +119,7 @@ How can air account for all the opposites?
 
 **Case for Existence and Change:**
 
-Thales observed that water could evaporate into mist or air, but Anaximenes used a more abstract term to describe this phenomenon, namely Rarefaction, it is essentially a spreading out or thinning, the same amount of matter is filling a larger space, and that the opposite of Rarefaction is Condensation, when the same amount of matter is squeezed into a smaller space. 
+Thales observed that water could evaporate into mist or air, but Anaximenes used a more abstract term to describe this phenomenon, namely Rarefaction, it is essentially a spreading out or thinning, the same amount of matter is filling a larger space, and that the opposite of Rarefaction is Condensation, when the same amount of matter is squeezed into a smaller space.
 
 
 
@@ -135,11 +135,11 @@ The same goes for the opposite scale, things get heavier, slower, and colder, it
 * Cloud
 * Water
 * Earth
-* Stones 
+* Stones
 
 
 
-Why out of all these elements on his periodic table, did he pick air? could it not have been any other? 
+Why out of all these elements on his periodic table, did he pick air? could it not have been any other?
 
 It's because he believed that air could be shown and produce all of the opposites inside itself, a hot day could have dry air, or a chilly day could bring mist, and even with your own breath you could produce hot or cold air.
 
@@ -157,13 +157,13 @@ How are Air and Life related to each other? according to Thales he observed that
 
 
 
-What did Anaximenes do with Anaximander's principle of infinity? 
+What did Anaximenes do with Anaximander's principle of infinity?
 
 He applied all these attributes that the Apeiron had to air, as according to him, air is a life giving divine spirit, and that air is becoming (comes to be), and that air is without measure and is infinite, and that it is always in motion.
 
 
 
-It can also explain even more, as it can take on any color, carry any smell, and it can have all tastes imaginable. 
+It can also explain even more, as it can take on any color, carry any smell, and it can have all tastes imaginable.
 
 
 
@@ -187,11 +187,35 @@ It can also explain even more, as it can take on any color, carry any smell, and
 
 
 
+## **Pythagoras:**
+
+**A New Philosopher (\~570-490 BC)**
 
 
 
+Pythagoras was born in Samos, a Greek island off the coast of Anatolia (Turkey), some have speculated that in his youth, he has studied in Miletus, as there was some overlap between him and the Milesians, or that he went to Egypt to study. 
 
 
+
+Pythagoras has fleed to Croton, a town in the south of Italy which at the time was controlled by Greece, he moved there as dictators began governing cities as well as his island.
+
+
+
+Pythagoras founded a school in Croton and started teaching philosophy, math, music, and astronomy.
+
+Which was also considered a cult, as his teachings were said to have been received from divine revelation, and started brainwashing his followers and set a complex set of arbitrary rules that were all shrouded in secrecy. 
+
+
+
+The rules were:
+
+* They were not allowed to stir fire with a knife
+* They had to rub out marks found in pots in ashes or mattresses
+* They were not allowed to wear rings
+* Whenever they clipped their nails or trimmed their hair, they had to spit on the trimmings 
+* They were not allowed to have swallows inside their houses
+* They were not allowed to urinate facing the sun
+* They were not allowed to sacrifice white roosters
 
 
 
