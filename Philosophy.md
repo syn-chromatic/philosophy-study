@@ -221,6 +221,52 @@ The rules were:
 
 
 
+Pythagoras believed in transmigration of the soul, in the sense that after you die, your soul migrates to another body of any animal, human included.
+
+
+
+He had an obsession for numbers and put meaning to it, where number 2 was female, number 3 was male, and if you combine them it makes number 5 meaning for marriage, and 4 for justice.
+
+
+
+He also put meanings to numbers in form of geometry, where number 1 was a dot, 2 a line, 3 a surface, 4 a solid object.
+
+
+
+Pythagoras was enamored with the idea of opposites, and he compiled a list of 10 fundamental opposites of reality:
+
+1  Unlimited  |  Limit
+
+2  Even       |  Odd
+
+3  Plurality  |  One
+
+4  Left       |  Right
+
+5  Female     |  Male
+
+6  Motion     |  Rest
+
+7  Bent       |  Straight
+
+8  Dark       |  Light
+
+9  Evil       |  Good
+
+10 Oblong     |  Square
+
+
+
+
+
+
+
+## **Xenophanes:**
+
+**A New Philosopher-Theologian (\~570-475 BC)**
+
+
+
 
 
 
