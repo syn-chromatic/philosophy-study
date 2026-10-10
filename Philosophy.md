@@ -267,33 +267,64 @@ Pythagoras was enamored with the idea of opposites, and he compiled a list of 10
 
 
 
+He was originally from Colophon, an Ionian city not far from Miletus and Samos, but at the age of about 25, he started moving to several different places all throughout the Greek-speaking world, going at least as far as Syracuse in Sicily (an island next to south of Italy).
+
+
+
+He was also one of the earliest philosophers who left us some of his writing, but he did not write engaging prose dialogues like Plato, nor technical logical arguments like Aristotle, his writing style was more in-line with what Homer or Hesiod did, because he wrote in a poetic style. 
+
+
+
+He was not a fan of people glorifying athletes like sprinters or boxers, because they received high honors without providing any practical benefit to the city.
+
+
+
+He criticized popular Greek religion and myths (like Homer and Hesiod) for assigning human moral flaws to the gods, such as theft, adultery, and deception.
+
+
+
+He criticized Anthropomorphism:
+
+* Cultures project their own traits onto gods (e.g., dark/snub-nosed for Ethiopians, red-haired/blue-eyed for Thracians).
+* If horses or oxen could draw, they would depict gods looking like horses or oxen.
+
+
+
+His Epistemology:
+
+* Knowledge isn't revealed by gods at birth; humans uncover better truth over time through inquiry.
+* First to distinguish absolute knowledge from true belief (certainty vs. justified belief without direct proof).
+
+
+
+His Science:
+
+* Earth is infinitely wide and deep, extending downward forever (not floating).
+* Sun/stars are fiery clouds formed by earth vapors/sparks.
+* First to note marine fossils on mountains, deducing that land was once underwater.
+
+
+
+His Arche:
+
+* Combination of Water and Earth (wet and dry).
+
+
+
+His Theology:
+
+* Believed in one non-anthropomorphic God: infinite, all-seeing, all-hearing, and all-thinking.
+* God is motionless, unchanging, and governs everything by mind alone.
+* Rejected born or dying gods: claiming a god is born means there was a time God did not exist.
+* Introduced the metaphysical concept of Being vs. Not-Being (existence vs. non-existence).
 
 
 
 
 
+## **Parmenides:**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**A New Philosopher of Being (\~515-445 BC)**
 
 
 
