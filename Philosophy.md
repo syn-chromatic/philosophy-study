@@ -429,35 +429,66 @@ Because of this, his quotations are often seen as seemingly contradictory and do
 
 
 
+Fragment 2:
+
+&#x09;"It is wise not to listen to me,
+
+&#x09;but to the word (Logos),
+
+&#x09;and to confess
+
+&#x09;that all things are one."
+
+
+
+In this fragment, when he says "all things are one" it seems like a clear indication that he agreed with the underlying premise of Thales big question "what is the one substance that everything is made of" 
+
+
+
+But in the first half of this fragment he said to "listen to the logos (word)", but it can be understood as reason or logic, if that is the case, then Heraclitus invites his listeners not to blindly accept his word for it, but to think for themselves.
 
 
 
 
 
+At other points he also engages with other parts of earlier philosophers such as:
+
+* Anaximander's Apeiron (source of all things, Arche split in opposites)
+* Pythagoras and Xenophanes (both emphasized the importance of opposites)
+
+
+
+Heraclitus on the other hand seems to oppose the existence of opposites altogether and rejects that idea outright.
 
 
 
 
 
+Fragment 16:
+
+&#x09;"The learning of many things does not teach understanding,
+
+&#x09;else would it have taught Hesiod and Pythagoras,
+
+&#x09;and again Xenophanes and Hecataeus."
 
 
 
 
 
+He denied the existence of opposites in the following quotes:
 
+Fragment 69:
 
+&#x09;"The way up and the way down is one and the same"
 
+Fragment 70:
 
+&#x09;"In the circumference of a circle the beginning and end are common"
 
+Fragment 50:
 
-
-
-
-
-
-
-
-
+&#x09;"The straight and the crooked path of the fuller's comb is one and the same"
 
 
 
