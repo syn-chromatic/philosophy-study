@@ -649,5 +649,41 @@ Those beliefs may have been influenced heavily by Pythagoras and his transmigrat
 
 
 
+He was born in Clazomenae and he spent his final years in Lampsacus, both on the west coast of Anatolia and north of Miletus, for most of his life he lived in Athens, that makes him the first philosopher to be a famous Athenian, Athens would later become integral for philosophy, and the place where Socrates, Plato and Aristotle spent most of their time philosophizing.
+
+
+
+While in Athens, he spent a lot of time contemplating about the challenging premises put forth by Parmenides and Heraclitus, but he also spent his time inadvertently making enemies, because after 30 years of being a decent citizen, he was exiled for impiety (lack of respect toward god).
+
+
+
+The specific belief cited for his impiety, is that he believed that the sun was nothing but a glowing hot stone about the same size as the Peloponnesian Peninsula (region in southern Greece).
+
+
+
+It is believed that his exiled was an exaggerated political play intended to hurt Pericles, an important politician in Athens, and a personal friend of Anaxagoras.
+
+
+
+###### **What did he believe?**
+
+Besides believing that the sun was a hot rock, he also believed that the moon was not a source of light, but a reflected light, and that the rainbow was essentially a phenomenon created by clouds and light. 
+
+
+
+He also believed that the earth was flat and the reason it didn't fall down was because of the compressed air underneath.
+
+
+
+Whether Anaxagoras was aware of Empedocles teachings or vice versa is unknown, but he has a familiar idea of how he thought the world works similar to Empedocles Four Roots/Elements, but he introduced some form of pluralism to that concept and he referred to the larger number of elements as Seeds.
+
+
+
+###### **What is a seed?**
+
+
+
+
+
 
 
