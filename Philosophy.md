@@ -193,7 +193,7 @@ It can also explain even more, as it can take on any color, carry any smell, and
 
 
 
-Pythagoras was born in Samos, a Greek island off the coast of Anatolia (Turkey), some have speculated that in his youth, he has studied in Miletus, as there was some overlap between him and the Milesians, or that he went to Egypt to study. 
+Pythagoras was born in Samos, a Greek island off the coast of Anatolia (Turkey), some have speculated that in his youth, he has studied in Miletus, as there was some overlap between him and the Milesians, or that he went to Egypt to study.
 
 
 
@@ -203,7 +203,7 @@ Pythagoras has fleed to Croton, a town in the south of Italy which at the time w
 
 Pythagoras founded a school in Croton and started teaching philosophy, math, music, and astronomy.
 
-Which was also considered a cult, as his teachings were said to have been received from divine revelation, and started brainwashing his followers and set a complex set of arbitrary rules that were all shrouded in secrecy. 
+Which was also considered a cult, as his teachings were said to have been received from divine revelation, and started brainwashing his followers and set a complex set of arbitrary rules that were all shrouded in secrecy.
 
 
 
@@ -212,7 +212,7 @@ The rules were:
 * They were not allowed to stir fire with a knife
 * They had to rub out marks found in pots in ashes or mattresses
 * They were not allowed to wear rings
-* Whenever they clipped their nails or trimmed their hair, they had to spit on the trimmings 
+* Whenever they clipped their nails or trimmed their hair, they had to spit on the trimmings
 * They were not allowed to have swallows inside their houses
 * They were not allowed to urinate facing the sun
 * They were not allowed to sacrifice white roosters
@@ -271,7 +271,7 @@ He was originally from Colophon, an Ionian city not far from Miletus and Samos, 
 
 
 
-He was also one of the earliest philosophers who left us some of his writing, but he did not write engaging prose dialogues like Plato, nor technical logical arguments like Aristotle, his writing style was more in-line with what Homer or Hesiod did, because he wrote in a poetic style. 
+He was also one of the earliest philosophers who left us some of his writing, but he did not write engaging prose dialogues like Plato, nor technical logical arguments like Aristotle, his writing style was more in-line with what Homer or Hesiod did, because he wrote in a poetic style.
 
 
 
@@ -328,11 +328,71 @@ His Theology:
 
 
 
+Was born in Elea, a Greek colony in the south of Italy, not far from Croton where Pythagoras had set up his school. Some say he was connected with the Pythagoreans in his youth, and he might have also been influenced by Xenophanes, since Xenophanes had also lived in southern Italy, and Parmenides's idea of one unchanging reality sounds a lot like Xenophanes's one unchanging God.
 
 
 
+He wrote only one work, a poem called On Nature, written in the same poetic style as Homer, Hesiod and Xenophanes. In the poem, he is taken on a chariot ride to the home of a goddess, and she reveals the truth to him, so just like Pythagoras, his teaching is presented as a divine revelation, but unlike Pythagoras, the goddess doesn't give him a list of rules, she gives him an argument.
 
 
+
+The poem is divided in two parts:
+
+* The Way of Truth (Aletheia), what reason tells us about reality
+* The Way of Opinion (Doxa), the deceptive world that our senses show us, which mortals wrongly trust
+
+
+
+His main contribution to philosophy was shifting the question. The Milesians asked what is the world made of, and Parmenides asked what does it even mean for something to be? He was the first to build a philosophy out of pure logical reasoning, rather than observation.
+
+
+
+The goddess says there are only three possible paths of inquiry:
+
+* It is (what exists, exists)
+* It is not (what does not exist)
+* It both is and is not (the path that mortals wander on)
+
+
+
+Path 2 is impossible, because you cannot know or speak of what is not, as "nothing" is not anything, so if you think or say something, it must be something that is. Path 3 is impossible too, as it contradicts itself, so the only path left is that what is, is.
+
+
+
+From this one starting point, he deduced all of the characteristics of Being:
+
+* It cannot come into being, because it would have to come from nothing, and from nothing, nothing comes. It would also have to come from something that is, which means it already existed.
+* It cannot perish, for the same reason, it can't turn into nothing.
+* It is one and whole, there is nothing that could divide it, because the thing that divides it would have to be "not-being", which doesn't exist.
+* It is unchanging, because change means that something is what it was not before, which means not-being turned into being.
+* It is motionless, because to move you need an empty space to move into, and empty space is nothing, and nothing does not exist, so there is no void.
+* It is complete and finite, he described it like a perfect sphere, evenly balanced from the center in every direction.
+
+
+
+His conclusions about the Milesians:
+
+Change, motion, plurality and the arche turning into other things are all illusions, because they require not-being to exist. If Anaximenes's air condenses into water, then air has "stopped being" and water has "come to be", which according to Parmenides is impossible.
+
+
+
+The senses can't be trusted, because they show us a world of change and many things, while reason shows us the opposite. When reason and the senses disagree, you follow reason. This is called Rationalism, and it separates him from the Milesians, who relied on observing nature.
+
+
+
+Parmenides's argument is the first example of deductive reasoning in philosophy: start with a premise, and follow it logically to a conclusion, even if the conclusion sounds absurd, you can't reject it unless you find a flaw in the premises.
+
+
+
+In the Way of Opinion, he still explains the world of appearances using the opposites, Light and Night (fire and earth), similar to the Pythagorean list, but he says this is only a "likely story" and not the truth.
+
+
+
+Legacy:
+
+* His student Zeno of Elea defended his teacher's claims by creating paradoxes that showed motion leads to contradictions (like Achilles and the tortoise).
+* Plato wrote a dialogue called Parmenides, where an older Parmenides meets a young Socrates in Athens (\~450 BC).
+* Later philosophers (Empedocles, Anaxagoras and the Atomists) tried to save change and motion without breaking his logic, by saying that Being isn't one thing but many unchanging things (like atoms), that just rearrange.
 
 
 
