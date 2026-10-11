@@ -572,33 +572,49 @@ Everything is always changing (Everything is becoming)
 
 ## **Empedocles:**
 
-**A New Philosopher of the Four Roots (\~494-434 BC)**
+**A New Philosopher of the Four Roots (\~484-424 BC)**
 
 
 
 
 
+He lived in Akragas (modern Agrigento), a wealthy Greek city on the island of Sicily, which is close to southern Italy where Parmenides and the Pythagoreans were, so he was probably influenced by both of them, and he is often seen as a student or follower of Parmenides.
 
 
 
+He wrote two poems, On Nature and Purifications, both written in verse like Xenophanes and Parmenides, and a lot more of his work has survived compared to most Presocratics, around 450 lines of fragments.
 
 
 
+He was also a very colorful character, he was a politician who supported democracy in his city, a doctor and a wonder-worker, and he claimed that he was a god walking among mortals. According to legend he died by jumping into the volcano Mount Etna to prove that he was divine, though this is most likely just a story made up later.
 
 
 
+He came after both Heraclitus and Parmenides, so he was facing a problem: Parmenides said that change is impossible, while Heraclitus said that everything is always changing, and Empedocles tried to find a way to fit both of them together.
 
 
 
+According to his naturalistic explanation of the universe is the four elements, which are:
+
+* Fire
+* Earth
+* Air
+* Water 
 
 
 
+he called them the four "roots" (rhizomata), and they were the first time that a philosopher combined all of the Milesians' proposals into one system, instead of choosing one of them as the arche. Each of the roots is eternal and unchanging, so it can't come into being or perish, which agrees with Parmenides that Being cannot be created or destroyed, but they can mix with each other and separate in different proportions, just like a painter mixes a few colors to produce countless others.
 
 
 
+So change is not one thing turning into another like Anaximenes believed, it is only the mixing and separation of the same four roots, what we call birth is mixture and what we call death is separation. This way Parmenides was right that Being cannot change, and Heraclitus was right that the world is always changing.
 
+&#x20;
 
+Two forces cause this:
 
+* Love (Philia), which brings things together
+* Strife (Neikos), which pulls them apart.
 
 
 
