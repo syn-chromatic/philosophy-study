@@ -735,19 +735,33 @@ Which means there is no smallest size and you can never get a pure substance mad
 
 
 
+###### **How does change happen?**
+
+Just like Empedocles, Anaxagoras agreed with Parmenides that nothing comes into being or perishes, it is only a mixing and separating of things that already exist. Hair cannot come from what is not hair, so the hair-seeds must have been in the food the whole time, and the body just collected them together.
 
 
 
+In the beginning all the seeds were mixed together in one motionless mass, so tiny that nothing could be told apart.
 
 
 
-&#x20;
+###### **What started the change?**
+
+Empedocles used two forces, Love and Strife, but Anaxagoras had only one cause, which he called Nous (Mind). It is the purest of all things and the only thing not mixed with anything else, so nothing can control it and it rules over everything. It knows everything and is in all living things.
 
 
 
+Nous started a spinning motion in one part of the mixture, and it is still spreading today. Like a whirlpool, it separated the seeds into opposites like hot and cold, dense and rare, wet and dry, and that formed the world. Heavy things went to the center and light things to the outer edge, and rocks flung off the earth began to glow hot, which is why he thought the sun was a hot stone.
 
 
 
+Because the seeds are infinitely divisible, they never separate completely, which is the difference from Empedocles's cycle where Strife separates everything.
+
+
+
+###### **Why was Nous a big deal?**
+
+He was the first to say that an intelligent mind, and not gods or a blind force, is the cause of order in the world. But his Mind was still a physical substance, and he never explained why it arranged things for a purpose, which later disappointed Socrates according to Plato's Phaedo.
 
 
 
