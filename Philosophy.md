@@ -681,6 +681,62 @@ Whether Anaxagoras was aware of Empedocles teachings or vice versa is unknown, b
 
 ###### **What is a seed?**
 
+Modern philosophers and historians have differing opinions about what exactly Anaxagoras meant, but one theory is that a seed can refer to any substance, for example, there can be:
+
+* Water-seed
+* Paper-seed
+* Fire-seed
+* Hair-seed
+* Stone-seed
+
+
+
+In the sense that every element is made out of seeds of that element if you zoom in enough, like tiny seeds forming a bigger structure of its own.
+
+
+
+Such as why is water made out of water? because there are tiny seeds of water forming the water.
+
+
+
+That explains his theory of **Being**, but what happens when something **Changes?**
+
+What happens when water changes into ice? according to his theory, water is not only made by water-seeds, but also ice-seeds, but in liquid form the water-seeds dominate the majority, but when water freezes, the ice-seeds become more prominent instead.
+
+
+
+And when hair grows out of skin, it is mostly skin-seeds and only a few hair-seeds, but when a hair grows that just means that hair-seeds are being extracted from the skin to form hairs.
+
+
+
+That also means that there are also water-seeds, salt-seeds, and blood-seeds present in the skin to form it, to essentially describe why our skin can also sweat, bleed or taste salty.
+
+
+
+But it also means that if water-seeds are present, there are also ice-seeds alongside them.
+
+
+
+According to Anaxagoras, all of the seeds are mixed-in with every substance, every seed is always present everywhere, it is just that the ratios of the seeds are varying, and they can be extremely diluted and in small quantities. 
+
+
+
+
+
+###### **How small are the seeds?**
+
+
+
+
+
+
+
+
+
+&#x20;
+
+
+
 
 
 
