@@ -520,6 +520,72 @@ Fragment 81:
 
 
 
+Which is in opposition to Parmenides that said change was impossible, as he said that you cannot step into a river once, because there no change or motion.
+
+
+
+Unlike the Milesians who picked Water, Apeiron and Air to describe the reality of the Arche, Heraclitus used Fire to connect everything.
+
+
+
+According to Fragment 22:
+
+&#x09;"All things are an exchange for fire,
+
+&#x09;and fire for all things,
+
+&#x09;even as wares for gold
+
+&#x09;and gold for wares."
+
+
+
+But at another point when he seems to be talking about the nature of reality, he says this:
+
+Fragment 83:
+
+&#x09;"It rests by changing"
+
+
+
+Fragment 84:
+
+&#x09;"Even the posset (barley drink) separates if it is not stirred"
+
+
+
+Parmenides \& Zeno:
+
+Things cannot change (Whatever is, is)
+
+
+
+Heraclitus:
+
+Everything is always changing (Everything is becoming)
+
+
+
+
+
+
+
+## **Empedocles:**
+
+**A New Philosopher of the Four Roots (\~494-434 BC)**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
