@@ -576,8 +576,6 @@ Everything is always changing (Everything is becoming)
 
 
 
-
-
 He lived in Akragas (modern Agrigento), a wealthy Greek city on the island of Sicily, which is close to southern Italy where Parmenides and the Pythagoreans were, so he was probably influenced by both of them, and he is often seen as a student or follower of Parmenides.
 
 
