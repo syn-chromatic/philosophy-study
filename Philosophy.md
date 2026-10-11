@@ -496,6 +496,26 @@ Fragment 50:
 
 
 
+The famous river quote:
+
+"You cannot step into the same river twice, because the second time you step into the river, both you and the river have changed"
+
+
+
+Fragments 41 \& 42:
+
+&#x09;"You cannot step twice into the same rivers;
+
+&#x09;for fresh waters are ever flowing in upon you"
+
+
+
+Fragment 81:
+
+&#x09;"We step and do not step into the same rivers;
+
+&#x09;we are and are not"
+
 
 
 
