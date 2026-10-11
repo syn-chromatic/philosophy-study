@@ -441,7 +441,7 @@ Fragment 2:
 
 
 
-In this fragment, when he says "all things are one" it seems like a clear indication that he agreed with the underlying premise of Thales big question "what is the one substance that everything is made of" 
+In this fragment, when he says "all things are one" it seems like a clear indication that he agreed with the underlying premise of Thales big question "what is the one substance that everything is made of"
 
 
 
@@ -572,7 +572,7 @@ Everything is always changing (Everything is becoming)
 
 ## **Empedocles:**
 
-**A New Philosopher of the Four Roots (\~484-424 BC)**
+**A New Philosopher of the Four Roots (\~494-434 BC)**
 
 
 
@@ -592,7 +592,7 @@ He came after both Heraclitus and Parmenides, so he was facing a problem: Parmen
 
 
 
-##### **From his book On Nature**
+###### **From his book On Nature**
 
 According to his naturalistic explanation of the universe is the four elements, which are:
 
@@ -618,33 +618,36 @@ Two forces cause this:
 
 
 
+He needed these forces because the roots themselves are unchanging and have no way of moving on their own, so something outside of them has to cause the mixing and separating. Parmenides' Being had no cause of motion, and this is Empedocles' answer to that.
 
 
-##### **From his book Purifications**
+
+The Cosmic Cycle:
+
+* Love and Strife take turns dominating in an endless cycle.
+* When Love fully rules, all the roots are blended together into one perfect sphere.
+* When Strife fully rules, all the roots are completely separated from each other.
+* Our world exists in between the two, while one force is overtaking the other, which is why we see both unity and separation.
+
+
+
+###### **From his book Purifications**
 
 He claimed to be a god, or more specifically a daimon, which in Greek mythology meant a divine spiritual being, according to him, in the far distant past he has committed a sin in which it caused him to be cast out from the divine realm and forced to spend 30,000 years living as various plants, animals and humans, until he has reached some goal, either serving his time, or reaching some stage of enlightenment.
 
 
 
-Those beliefs may have been influenced heavily by Pythagoras.
+Those beliefs may have been influenced heavily by Pythagoras and his transmigration of the soul. It also mirrors his cosmic cycle, since the soul is torn away from the divine by Strife and slowly returns through Love, just like the roots.
 
 
 
 
 
+# **Anaxagoras:**
+
+**A New Philosopher of Mind (\~500-428 BC)**
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-&#x20;
 
