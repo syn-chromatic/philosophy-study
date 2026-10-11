@@ -717,13 +717,21 @@ But it also means that if water-seeds are present, there are also ice-seeds alon
 
 
 
-According to Anaxagoras, all of the seeds are mixed-in with every substance, every seed is always present everywhere, it is just that the ratios of the seeds are varying, and they can be extremely diluted and in small quantities. 
+According to Anaxagoras, all of the seeds are mixed-in with every substance, every seed is always present everywhere, it is just that the ratio/distribution of the seeds are varying, and they can be extremely diluted and in small quantities. 
 
 
 
 
 
 ###### **How small are the seeds?**
+
+Anaxagoras would say that seeds are infinitely small and infinitely divisible, even the smallest imaginable amount of a substance would still have all the different kinds of seeds within it.
+
+
+
+Which means there is no smallest size and you can never get a pure substance made up of just one type of seed.
+
+
 
 
 
