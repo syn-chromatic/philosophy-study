@@ -398,6 +398,93 @@ Legacy:
 
 
 
+Parmenides Claims:
+
+* Whatever is, is
+* Things cannot come into existence
+* Things cannot be destroyed
+* No change
+* No motion
+* No time
+
+
+
+
+
+
+
+## **Heraclitus:**
+
+**A New Philosopher of Change (\~535-475 BC)**
+
+
+
+He lived in Ephesus, it was a center for Greek culture, north of Miletus, he has only written one book that was lost and only quotes of it have survived from other authors who have quoted his book.
+
+
+
+Because of this, his quotations are often seen as seemingly contradictory and doesn't form a complete picture because of his complex arguments and thoughts, so it is possible to come into many different conclusions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
