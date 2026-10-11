@@ -592,12 +592,14 @@ He came after both Heraclitus and Parmenides, so he was facing a problem: Parmen
 
 
 
+##### **From his book On Nature**
+
 According to his naturalistic explanation of the universe is the four elements, which are:
 
 * Fire
 * Earth
 * Air
-* Water 
+* Water
 
 
 
@@ -613,6 +615,22 @@ Two forces cause this:
 
 * Love (Philia), which brings things together
 * Strife (Neikos), which pulls them apart.
+
+
+
+
+
+##### **From his book Purifications**
+
+He claimed to be a god, or more specifically a daimon, which in Greek mythology meant a divine spiritual being, according to him, in the far distant past he has committed a sin in which it caused him to be cast out from the divine realm and forced to spend 30,000 years living as various plants, animals and humans, until he has reached some goal, either serving his time, or reaching some stage of enlightenment.
+
+
+
+Those beliefs may have been influenced heavily by Pythagoras.
+
+
+
+
 
 
 
